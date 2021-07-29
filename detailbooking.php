@@ -29,7 +29,7 @@
                 <p><span>Total Amount : </span><span class="uk-text-bold uk-text-emphasis uk-text-large uk-text-primary"><?php echo "Rs. ",$row["3"]; ?></span></p>
                 <p><span>Avatar Name  : </span><span class="uk-text-bold"><?php echo $row["4"]; ?></span></p>
                 <p><div uk-margin class="">
-                    <button class="uk-button uk-button-primary uk-button-smal">Add Log</button>
+                    <button class="uk-button uk-button-primary uk-button-small">Add Log</button>
                 </div></p>
             </div>
         </div>
